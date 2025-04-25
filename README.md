@@ -75,11 +75,37 @@ Simulated the following scenarios:
 
 1. Download and install **Cisco Packet Tracer** from [Cisco NetAcad](https://www.netacad.com/).
 2. Clone or download this repository.
-3. Open `home-network.pkt` in Cisco Packet Tracer.
+3. Open                 in Cisco Packet Tracer.
 4. Explore CLI configurations on each device (router/switch) to review IPs, VLANs, and ACLs.
 5. Use simulation mode to test connectivity and validate security rules.
 
 ---
 
 ## 📁 Project Files
+
+
+
+
+---
+
+## 📦 Download Links
+
+
+
+---
+
+## 💡 Learning Outcomes
+
+- Hands-on experience with VLANs, DHCP, NAT, ACLs, and switch/router configuration.
+- Simulated cyber defense techniques against common network attacks.
+- Strengthened practical knowledge in network security and architecture.
+
+---
+
+## 📬 Contact
+
+Feel free to connect or reach out if you’d like to discuss this project or collaborate on others!
+
+> ✉️ irtiza1919@gmail.com 
+> 🔗 [LinkedIn](https://linkedin.com/in/irtizaur-rahman)  
 
